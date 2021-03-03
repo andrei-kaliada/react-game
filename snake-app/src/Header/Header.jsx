@@ -24,14 +24,14 @@ export default function Header(props) {
                 <button onClick={()=> turnOnSounds()}>
                     <img src={soundsOn} alt="soundsOn"/>
                 </button>
-                <button onClick={() =>musicVolumUp()}>Music volum Up</button>
-                <button onClick={() =>musicVolumDown()}>Music volum Down</button>
-                <button onClick={() => soundsVolumUp()}>Sounds volum Up</button>
-                <button onClick={() => soundsVolumDown()}>Sounds volum Down</button>
+                <button onClick={() =>musicVolumUp()}>Music volume Up</button>
+                <button onClick={() =>musicVolumDown()}>Music volume Down</button>
+                <button onClick={() => soundsVolumUp()}>Sounds volume Up</button>
+                <button onClick={() => soundsVolumDown()}>Sounds volume Down</button>
             </div>
             <div className="header__info">
                 <div className="score">Score:<span>{props.score}</span></div>
-                <div className="high-score">High Score:<span>{localStorage.getItem("highScore").split(",")[0]}</span></div>
+                <div className="high-score">High Score:<span>{localStorage.getItem(`highScore`) && localStorage.getItem("highScore").split(",")[0]}</span></div>
                 <Lives lives={props.lives}/>
             </div>
         </div>

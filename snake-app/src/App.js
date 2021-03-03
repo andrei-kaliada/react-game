@@ -4,6 +4,8 @@ import arrowLeft from './assets/icons/arrowLeft.svg';
 import arrowRight from './assets/icons/arrowRight.svg';
 import arrowUp from './assets/icons/arrowUp.svg';
 import arrowDown from './assets/icons/arrowDown.svg';
+import footerLogo from './assets/icons/rs_school_js.svg';
+import githubIcon from './assets/icons/githubIcon.svg';
 
 class App extends React.Component {
   constructor(props){
@@ -36,7 +38,7 @@ class App extends React.Component {
 
 
   render(){
-console.log(this.state.startGame);
+
     return(
       <div className="wrappApp">
         {
@@ -71,6 +73,19 @@ console.log(this.state.startGame);
            :
           <AppTemp startGame={this.startGame}/>
         }
+        <footer className="footer">
+          <div className="footer__logo">
+            <a className="footer__logo-link" href="https://rs.school/js/">
+              <img src={footerLogo} alt="footerLogo"/>
+            </a>
+          </div>
+          <div className="footer__text">Created in 2021</div>
+          <div className="footer__social">
+            <a href="https://github.com/andrei-kaliada">
+              <img src={githubIcon} alt="gitHub"/>
+            </a>
+          </div>
+        </footer>
       </div>
     );
   }
