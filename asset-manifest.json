@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-game/static/css/main.737b24c1.chunk.css",
+    "main.js": "/react-game/static/js/main.6a2db843.chunk.js",
+    "main.js.map": "/react-game/static/js/main.6a2db843.chunk.js.map",
+    "runtime-main.js": "/react-game/static/js/runtime-main.0a3680bb.js",
+    "runtime-main.js.map": "/react-game/static/js/runtime-main.0a3680bb.js.map",
+    "static/js/2.b6ecac5d.chunk.js": "/react-game/static/js/2.b6ecac5d.chunk.js",
+    "static/js/2.b6ecac5d.chunk.js.map": "/react-game/static/js/2.b6ecac5d.chunk.js.map",
+    "index.html": "/react-game/index.html",
+    "static/css/main.737b24c1.chunk.css.map": "/react-game/static/css/main.737b24c1.chunk.css.map",
+    "static/js/2.b6ecac5d.chunk.js.LICENSE.txt": "/react-game/static/js/2.b6ecac5d.chunk.js.LICENSE.txt",
+    "static/media/arrowDown.243341a9.svg": "/react-game/static/media/arrowDown.243341a9.svg",
+    "static/media/arrowLeft.3cc76821.svg": "/react-game/static/media/arrowLeft.3cc76821.svg",
+    "static/media/arrowRight.fb19f8f9.svg": "/react-game/static/media/arrowRight.fb19f8f9.svg",
+    "static/media/arrowUp.f950f788.svg": "/react-game/static/media/arrowUp.f950f788.svg",
+    "static/media/dead.25ffc265.mp3": "/react-game/static/media/dead.25ffc265.mp3",
+    "static/media/down.43ca33f5.mp3": "/react-game/static/media/down.43ca33f5.mp3",
+    "static/media/eat.5ff4f174.mp3": "/react-game/static/media/eat.5ff4f174.mp3",
+    "static/media/left.f6661b15.mp3": "/react-game/static/media/left.f6661b15.mp3",
+    "static/media/mainSound.4c6110aa.mp3": "/react-game/static/media/mainSound.4c6110aa.mp3",
+    "static/media/musicOff.4d083f3f.svg": "/react-game/static/media/musicOff.4d083f3f.svg",
+    "static/media/musicOn.baa2ca42.svg": "/react-game/static/media/musicOn.baa2ca42.svg",
+    "static/media/right.a422b7d1.mp3": "/react-game/static/media/right.a422b7d1.mp3",
+    "static/media/soundsOff.5c9aeea9.svg": "/react-game/static/media/soundsOff.5c9aeea9.svg",
+    "static/media/soundsOn.70bf0ded.svg": "/react-game/static/media/soundsOn.70bf0ded.svg",
+    "static/media/up.46ece3fb.mp3": "/react-game/static/media/up.46ece3fb.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a3680bb.js",
+    "static/js/2.b6ecac5d.chunk.js",
+    "static/css/main.737b24c1.chunk.css",
+    "static/js/main.6a2db843.chunk.js"
+  ]
+}
