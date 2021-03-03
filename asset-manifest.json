@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-game/static/css/main.737b24c1.chunk.css",
-    "main.js": "/react-game/static/js/main.32ba8254.chunk.js",
-    "main.js.map": "/react-game/static/js/main.32ba8254.chunk.js.map",
+    "main.css": "/react-game/static/css/main.e206cead.chunk.css",
+    "main.js": "/react-game/static/js/main.dead7d45.chunk.js",
+    "main.js.map": "/react-game/static/js/main.dead7d45.chunk.js.map",
     "runtime-main.js": "/react-game/static/js/runtime-main.0a3680bb.js",
     "runtime-main.js.map": "/react-game/static/js/runtime-main.0a3680bb.js.map",
     "static/js/2.b6ecac5d.chunk.js": "/react-game/static/js/2.b6ecac5d.chunk.js",
     "static/js/2.b6ecac5d.chunk.js.map": "/react-game/static/js/2.b6ecac5d.chunk.js.map",
     "index.html": "/react-game/index.html",
-    "static/css/main.737b24c1.chunk.css.map": "/react-game/static/css/main.737b24c1.chunk.css.map",
+    "static/css/main.e206cead.chunk.css.map": "/react-game/static/css/main.e206cead.chunk.css.map",
     "static/js/2.b6ecac5d.chunk.js.LICENSE.txt": "/react-game/static/js/2.b6ecac5d.chunk.js.LICENSE.txt",
     "static/media/arrowDown.243341a9.svg": "/react-game/static/media/arrowDown.243341a9.svg",
     "static/media/arrowLeft.3cc76821.svg": "/react-game/static/media/arrowLeft.3cc76821.svg",
@@ -17,11 +17,13 @@
     "static/media/dead.25ffc265.mp3": "/react-game/static/media/dead.25ffc265.mp3",
     "static/media/down.43ca33f5.mp3": "/react-game/static/media/down.43ca33f5.mp3",
     "static/media/eat.5ff4f174.mp3": "/react-game/static/media/eat.5ff4f174.mp3",
+    "static/media/githubIcon.c9c4779f.svg": "/react-game/static/media/githubIcon.c9c4779f.svg",
     "static/media/left.f6661b15.mp3": "/react-game/static/media/left.f6661b15.mp3",
     "static/media/mainSound.4c6110aa.mp3": "/react-game/static/media/mainSound.4c6110aa.mp3",
     "static/media/musicOff.4d083f3f.svg": "/react-game/static/media/musicOff.4d083f3f.svg",
     "static/media/musicOn.baa2ca42.svg": "/react-game/static/media/musicOn.baa2ca42.svg",
     "static/media/right.a422b7d1.mp3": "/react-game/static/media/right.a422b7d1.mp3",
+    "static/media/rs_school_js.ad178c0d.svg": "/react-game/static/media/rs_school_js.ad178c0d.svg",
     "static/media/soundsOff.5c9aeea9.svg": "/react-game/static/media/soundsOff.5c9aeea9.svg",
     "static/media/soundsOn.70bf0ded.svg": "/react-game/static/media/soundsOn.70bf0ded.svg",
     "static/media/up.46ece3fb.mp3": "/react-game/static/media/up.46ece3fb.mp3"
@@ -29,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.0a3680bb.js",
     "static/js/2.b6ecac5d.chunk.js",
-    "static/css/main.737b24c1.chunk.css",
-    "static/js/main.32ba8254.chunk.js"
+    "static/css/main.e206cead.chunk.css",
+    "static/js/main.dead7d45.chunk.js"
   ]
 }
